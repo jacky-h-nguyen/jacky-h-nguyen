@@ -18,4 +18,4 @@ My name is Jacky Nguyen and I'm a full stack developer. I am a Information Techn
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=react&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=react&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
